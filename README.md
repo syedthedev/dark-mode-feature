@@ -42,10 +42,10 @@ Easily switch between light and dark themes with a beautiful sliding UI.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/syedthedev/dark-mode-toggle.git
+git clone https://github.com/syedthedev/dark-mode-feature.git
 
 # 2. Navigate to the folder
-cd dark-mode-toggle
+cd dark-mode-feature
 
 # 3. Run the app
 Open DarkMode.html in your browser
