@@ -28,13 +28,13 @@ Easily switch between light and dark themes with a beautiful sliding UI.
 
 ### ☀️ Light Mode
 
-![Normal Mode](preview/normal.png)
+![Normal Mode](preview/normal.PNG)
 
 ---
 
 ### 🌙 Dark Mode
 
-![Dark Mode](preview/dark.png)
+![Dark Mode](preview/dark.PNG)
 
 ---
 
